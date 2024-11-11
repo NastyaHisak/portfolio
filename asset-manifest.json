@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.38bb2f3b.css",
-    "main.js": "/portfolio/static/js/main.eba25393.js",
+    "main.css": "/portfolio/static/css/main.8c5c97fd.css",
+    "main.js": "/portfolio/static/js/main.25ae1e1f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/04-v.mp4": "/portfolio/static/media/04-v.4558fe2272d4d4a9a154.mp4",
     "static/media/02-v.mp4": "/portfolio/static/media/02-v.4172c85e82d9f76f846a.mp4",
@@ -17,9 +17,9 @@
     "static/media/04-4.jpg": "/portfolio/static/media/04-4.4ae55fabad179caeecb4.jpg",
     "static/media/03-2.jpg": "/portfolio/static/media/03-2.d589736a531903996a75.jpg",
     "static/media/02-3.jpg": "/portfolio/static/media/02-3.b691a65af7654698c735.jpg",
-    "static/media/Гисак Анастасия frontend-разработчик.pdf": "/portfolio/static/media/Гисак Анастасия frontend-разработчик.e1d36e3a7629c1108164.pdf",
     "static/media/01-3.jpg": "/portfolio/static/media/01-3.4c36bcf7e8bc4b06103a.jpg",
     "static/media/03-3.jpg": "/portfolio/static/media/03-3.30b9b3898cc6c7543aaa.jpg",
+    "static/media/Анастасия Гисак frontend-разработчик.pdf": "/portfolio/static/media/Анастасия Гисак frontend-разработчик.e7857def14eb4a20277a.pdf",
     "static/media/02-4.jpg": "/portfolio/static/media/02-4.6040d6c2a982550ef935.jpg",
     "static/media/02-1.jpg": "/portfolio/static/media/02-1.4a552b16644df1ea9f33.jpg",
     "static/media/03-1.jpg": "/portfolio/static/media/03-1.fd11e31d401b0df54cf5.jpg",
@@ -31,23 +31,23 @@
     "static/media/04.jpg": "/portfolio/static/media/04.a4e1134bfd8624ee4c5f.jpg",
     "static/media/03.jpg": "/portfolio/static/media/03.4856684089ea99f43367.jpg",
     "static/media/05.jpg": "/portfolio/static/media/05.4f76e257bb843d35a024.jpg",
-    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/sun.svg": "/portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/telegram.svg": "/portfolio/static/media/telegram.a9dc71359718aa381de080787c4531fc.svg",
-    "main.38bb2f3b.css.map": "/portfolio/static/css/main.38bb2f3b.css.map",
-    "main.eba25393.js.map": "/portfolio/static/js/main.eba25393.js.map",
+    "static/media/telegram.svg": "/portfolio/static/media/telegram.ad96e994228ae05233dd2c8c2a446646.svg",
+    "main.8c5c97fd.css.map": "/portfolio/static/css/main.8c5c97fd.css.map",
+    "main.25ae1e1f.js.map": "/portfolio/static/js/main.25ae1e1f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38bb2f3b.css",
-    "static/js/main.eba25393.js"
+    "static/css/main.8c5c97fd.css",
+    "static/js/main.25ae1e1f.js"
   ]
 }
