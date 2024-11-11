@@ -1,7 +1,7 @@
 import "./style.css";
 
 import avatar from './../../img/icons/avatar.jpeg';
-import CV from './../../img/Гисак Анастасия frontend-разработчик.pdf';
+import CV from './../../img/Анастасия Гисак frontend-разработчик.pdf';
 import {NavLink} from "react-router-dom";
 
 const Header = () => {
@@ -16,9 +16,7 @@ const Header = () => {
                         <div className="header-about__text"><strong>Hello world!</strong> Меня зовут Анастасия, я – Frontend-разработчик. <br/>
                             Занимаюсь разработкой веб-сайтов.
                             Имею опыт в создании одностраничных и многостраничных сайтов, веб-приложений,
-                            интернет-магазина. А вот и <NavLink to="/projects" className="header-examples"> примеры моих работ</NavLink>.
-                            Постоянно изучаю новые технологии,
-                            берусь за интересные и сложные задачи. <br/>
+                            интернет-магазина. А вот и <NavLink to="/projects" className="header-examples"> примеры моих работ</NavLink>.<br/>
                             Буду рада новым знакомствам и сотрудничеству!
                         </div>
                     </div>

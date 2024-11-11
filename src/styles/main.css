@@ -91,7 +91,7 @@ body {
     display: none !important;
 }
 
-.section {
+.main {
     padding: 35px 0 70px;
 }
 
@@ -114,8 +114,45 @@ body {
 }
 
 /*Home*/
-.skills {
-    max-width: 900px;
+
+.experience {
+    max-width: 930px;
+    margin: 0 auto 70px;
+}
+
+.experience-list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+    color: var(--text-color);
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.experience-date {
+    width: 170px;
+    flex-shrink: 0;
+}
+
+.experience-position {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 5px;
+ }
+.experience-position span{
+    border-bottom: 2px solid var(--blue);
+ }
+.experience-company {
+    margin-bottom: 10px;
+}
+.experience-company span{
+    font-weight: 700;
+}
+
+
+.skills{
+    max-width: 930px;
     margin: 0 auto;
 }
 
@@ -338,6 +375,16 @@ body {
     .social {
         column-gap: 20px;
     }
+}
 
 
+@media (max-width: 560px) {
+    .experience-list {
+        flex-direction: column;
+    }
+
+    .experience-date {
+        padding-top: 15px;
+        text-align: center;
+    }
 }
